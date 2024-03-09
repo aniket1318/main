@@ -1,0 +1,14 @@
+{
+  "name": "aniket",
+  "version": "1.0.0",
+  "description": "its an amazing package",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aniket",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
